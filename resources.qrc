@@ -1,0 +1,19 @@
+<RCC>
+  <qresource>
+    <file>tack.png</file>
+    <file>tick-mark.png</file>
+    <file>images/520-5203406_marqueur-google-map-icon-hd-png-download-removebg-preview.png</file>
+    <file>images/535146.png</file>
+    <file>images/ser.png</file>
+    <file>images/search.png</file>
+    <file>images/notifications.png</file>
+    <file>images/view-details-xxl-removebg-preview.png</file>
+    <file>images/dashboard.png</file>
+    <file>images/image (1).png</file>
+    <file>images/log_out.png</file>
+    <file>images/menu.png</file>
+    <file>images/profile.png</file>
+    <file>images/settings.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>
