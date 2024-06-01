@@ -1,0 +1,19 @@
+/* styles.css */
+
+/* Table background */
+#tableWidget {
+    background-color: rgba(0, 0, 0, 0.5); /* Set transparent background color */
+}
+
+/* Table header background */
+#tableWidget QHeaderView::section {
+    background-color: rgba(0, 0, 0, 0.7); /* Set transparent header background color */
+}
+
+/* Table cell padding */
+#tableWidget QTableWidget QTableCornerButton::section,
+#tableWidget QTableWidget QHeaderView::section,
+#tableWidget QTableWidget QTableWidgetItem {
+    padding: 10px; /* Add padding to cells */
+    color: #fff; /* Set text color to white */
+}
