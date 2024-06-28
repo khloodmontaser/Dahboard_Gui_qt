@@ -19,7 +19,8 @@ The Firebase Realtime Database is a cloud-hosted database where data is stored a
 ## Key Components
 
 - **Interactive Map**
-  - ![Interactive Map](path/to/pic1)
+  - ![Interactive Map](![image](https://github.com/khloodmontaser/Dahboard_Gui_qt/assets/113125527/848bd285-a2ad-4315-8cf2-9995459674ae)
+)
   
 - **Reporting Page**
   - ![Reporting Page](path/to/pic2)
