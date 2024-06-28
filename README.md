@@ -22,7 +22,7 @@ The Firebase Realtime Database is a cloud-hosted database where data is stored a
   - ![Interactive Map](output_screens/Screenshot%20from%202024-06-28%2012-32-28.png)
   
 - **Reporting Page**
-  - ![Reporting Page](path/to/pic2)
+  - ![Reporting Page](output_screens/Screenshot%20from%202024-06-28%2012-43-26.png)
 
 These components are utilized for storing report and car location data.
 
