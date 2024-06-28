@@ -5,6 +5,7 @@ This application acts as a dashboard for emergency vehicles, displaying real-tim
 ## Key Features
 
 - **Realtime:** Data is synchronized in real-time to every connected client.
+- **OFFLINE:** Accessible from client devices even when offline.
 - **Scalable:** Scales across multiple databases.
 
 ## What is Firebase Database?
@@ -20,7 +21,6 @@ The Firebase Realtime Database is a cloud-hosted database where data is stored a
 
 - **Interactive Map**
   - ![Interactive Map](/home/lenovo/Pictures/Screenshots/Screenshot from 2024-06-28 12-32-28.png)
-)
   
 - **Reporting Page**
   - ![Reporting Page](path/to/pic2)
@@ -59,3 +59,10 @@ These components are utilized for storing report and car location data.
   - Updates the Google Maps interface with new coordinates.
   - Real-time location tracking for end-users.
 
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request if you have any ideas for improvements or new features.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
